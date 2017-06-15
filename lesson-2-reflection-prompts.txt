@@ -8,14 +8,19 @@ This can help us in making sure that the file(s) are ready.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+To check what changes there are, and if they make sense if we want to keep them or not.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+If i wanted to try a new R function that as experimental.
 
 How do the diagrams help you visualize the branch structure?
+To see where we are in the revision history.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Bringing things back together.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+To control when we want to make the changes.
